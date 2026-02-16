@@ -1,16 +1,12 @@
-# firebase
+# FusioStyle App
 
-A new Flutter project.
+A shopping application built with Flutter & Firebase.
 
-## Getting Started
+## Tech Stack
+- Flutter
+- Firebase
+- Firestore
+- Cubit State Management
+- Clean Architecture
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⚠️ This project is still under development.
